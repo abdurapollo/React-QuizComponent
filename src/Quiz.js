@@ -15,7 +15,7 @@ class Quiz extends Component {
 
     render(){
 
-       const isQuizEnd = true;
+       const isQuizEnd = false;
 
        return (
         <div className='QuizQuestion'>
